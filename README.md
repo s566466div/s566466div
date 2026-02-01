@@ -2,7 +2,7 @@
 
 🎓 **Graduate Student | MS – Applied Computer Science**  
 📍 Northwest Missouri State University | Class of 2025  
-📫 Email: bathaladivya59@gmail.com | 📍 Carrollton, TX  
+📫 Email: bathaladivya59@gmail.com | 📍 Mckinney, TX  
 🔗 [LinkedIn](https://www.linkedin.com/in/divya-bathala)
 
 ---
