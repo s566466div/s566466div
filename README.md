@@ -2,31 +2,54 @@
 
 🎓 **Graduate Student | MS – Applied Computer Science**  
 📍 Northwest Missouri State University | Class of 2025  
-📫 Email: bathaladivya59@gmail.com | 📍 Mckinney, TX  
+📫 Email: bathaladivya59@gmail.com | 📍 Dallas, TX  
 🔗 [LinkedIn](https://www.linkedin.com/in/divya-bathala)
+
+🧠 **Currently Exploring**  Hi, I'm Divya Bathala 👋
+Full Stack Java Engineer · McKinney, TX (Dallas area)
+📧 divyab71@outlook.com · 🔗 linkedin.com/in/divya-bathala
 
 ---
 
 💡 **Who I Am**  
-A passionate **DevOps & Frontend Engineer** with 5+ years of hands-on experience in building CI/CD pipelines, automating cloud infrastructure, and developing scalable web applications. My work blends technical depth with system reliability and intuitive user experiences.
+Software engineer with 5+ years building enterprise-grade applications across logistics, aviation, and higher education. I specialize in Java/Spring Boot backends and React.js frontends, with hands-on production experience in microservices, cloud infrastructure (AWS & Azure), and CI/CD automation. I care about clean APIs, reliable deployments, and systems that scale.
 
 ---
 
-🛠️ **Core Skills & Tools**
+## 🛠️ Core Stack
 
-**DevOps & Cloud**  
-- Azure (AKS, App Services, Synapse) | AWS (EC2, RDS, IAM) | Terraform | Docker | Kubernetes | GitHub Actions | Jenkins  
-- CI/CD (Azure DevOps YAML, GitHub Actions, Jenkins) | Containerization | Monitoring (Prometheus, Grafana, Azure Monitor)  
+| Area | Technologies |
+|------|-------------|
+| **Languages** | `Java` `JavaScript` `Python` `SQL` |
+| **Frontend** | `React.js` `Redux` `Axios` `HTML5` `CSS3` |
+| **Backend** | `Spring Boot` `Spring Security` `Hibernate` `RESTful APIs` `Microservices` |
+| **Databases & Messaging** | `MySQL` `PostgreSQL` `MongoDB` `Oracle` `Redis` `Kafka` |
+| **Cloud** | `AWS (EC2 · S3 · RDS · Lambda · EKS · ECS · SQS · DynamoDB)` `Azure (AKS · App Service · Key Vault · VMs)` |
+| **DevOps & Tools** | `Docker` `Kubernetes` `Jenkins` `Terraform` `Git` `GitHub` `Maven` `Gradle` |
+| **Auth & API** | `OAuth` `JWT` `Swagger / OpenAPI` `Postman` |
+| **Testing** | `JUnit 5` `Mockito` `TDD` `SonarQube` `Integration Testing` |
+| **Methodologies** | `Agile / Scrum` `CI/CD` `SDLC` |
 
-**Frontend & Backend**  
-- React.js, JavaScript, HTML5, CSS3  
-- Spring Boot, REST APIs, SQL, Firebase, MongoDB  
+💼 Experience
+Software Engineer — Southwest Airlines (Feb 2025 – Present · Remote)
+Flight search & booking platform · Spring Boot · React.js · AWS · Spring Security · Jenkins
+Software Developer — Northwest Missouri State University (Dec 2023 – Jan 2025 · Maryville, MO)
+University student portal · Spring Boot · RESTful APIs · Jenkins CI/CD
+Associate Consultant (FedEx client) — Eviden / Atos (Feb 2022 – Jul 2023 · India)
+Enterprise logistics & label generation · Java microservices · React.js · AWS · Docker
+Junior Java Developer — Shiash Info Solutions (Dec 2019 – Dec 2021 · India)
+Java · Spring Boot · REST APIs · MySQL · Git
 
-**Languages & Scripting**  
-- Python, Java, Bash, PowerShell, SQL  
+🎓 Education
+MS, Applied Computer Science — Northwest Missouri State University (2023 – 2025)
+BE, Electronics & Communication Engineering — Sathyabama Institute of Science & Technology (2017 – 2021)
 
-**Data & Analytics**  
-- Power BI, Excel (Automation), SQL Server, Azure Synapse, Data Modeling  
+📜 Certifications
+
+🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+🏅 HackerRank — Advanced SQL
+
+
 
 ---
 
@@ -52,7 +75,12 @@ Built CRUD-based NoSQL web app with CLI automations and query optimizations.
 
 ---
 
-🧠 **Currently Exploring**  
+
+✅ Open To
+
+Full Stack Java / Backend engineering roles
+Contract-to-hire opportunities
+Hybrid or onsite (open to relocation)
 - Advanced cloud infrastructure design  
 - Kubernetes production workflows  
 - React performance optimization  
@@ -62,7 +90,6 @@ Built CRUD-based NoSQL web app with CLI automations and query optimizations.
 
 💼 **Open To**  
 - Frontend Development Roles  
-- DevOps & Cloud Engineering Opportunities  
 - Full-Stack Development & Automation Projects  
 - Open Source & Collaboration
 
