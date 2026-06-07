@@ -1,12 +1,14 @@
 ### 👋 Hi, I’m Divya Bathala (@s566466div)
 
+💼 **Software Engineer | Southwest Airlines**
+
 🎓 **Graduate Student | MS – Applied Computer Science**  
 📍 Northwest Missouri State University | Class of 2025  
-📫 Email: bathaladivya59@gmail.com | 📍 Dallas, TX  
+📫 Email: divyab71@outlook.com | 📍 Dallas, TX  
 🔗 [LinkedIn](https://www.linkedin.com/in/divya-bathala)
 
 🧠 **Currently Exploring**  Hi, I'm Divya Bathala 👋
-Full Stack Java Engineer · McKinney, TX (Dallas area)
+Full Stack Java Engineer · Dallas, TX
 📧 divyab71@outlook.com · 🔗 linkedin.com/in/divya-bathala
 
 ---
@@ -56,7 +58,7 @@ BE, Electronics & Communication Engineering — Sathyabama Institute of Science 
 🚀 **Highlighted Projects**
 
 📘 **EduLearn – Cloud-Native LMS**  
-`React | Spring Boot | Docker | Terraform | Netlify | Render`  
+`React | Spring Boot | Docker | Netlify | Render`  
 Built and deployed a full-stack LMS with CI/CD, containerized backend, and scalable infrastructure-as-code practices.
 
 🤖 **Generative AI Chatbot**  
@@ -67,7 +69,7 @@ Context-aware chatbot using RAG, deployed with CI/CD on Streamlit Cloud.
 Created advanced DAX measures and published an interactive dashboard with Git versioning.
 
 📱 **LifeSaver – Organ Donation Android App**  
-`Java | Firebase | Google Maps API`  
+`Java | Firebase `  
 Developed an Android app to connect organ donors and recipients with real-time data and geolocation support.
 
 🌐 **MongoDB Restaurant Finder**  
@@ -101,5 +103,5 @@ I thrive at the intersection of tech and creativity—automating backend systems
 ---
 
 📍 Let’s Connect!  
-[LinkedIn](https://www.linkedin.com/in/divya-bathala) | 📧 bathaladivya59@gmail.com
+[LinkedIn](https://www.linkedin.com/in/divya-bathala) | 📧 divyab71@outlook.com
 
